@@ -1,0 +1,5 @@
+{
+  "name": "ZenFolio",
+  "description": "A sleek, real-time financial portfolio tracker to monitor stocks and mutual funds, featuring different themes and a clean dashboard. Data is powered by Supabase.",
+  "requestFramePermissions": []
+}
